@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "拍照量体"; ObjectID = "3he-Lq-dLd"; */
+"3he-Lq-dLd.normalTitle" = "拍照量体";
+
+/* Class = "UITextField"; placeholder = "手机号"; ObjectID = "5Gj-vQ-nFL"; */
+"5Gj-vQ-nFL.placeholder" = "手机号";
+
+/* Class = "UIButton"; normalTitle = "重新拍摄"; ObjectID = "9T3-D6-dVy"; */
+"9T3-D6-dVy.normalTitle" = "重新拍摄";
+
+/* Class = "UILabel"; text = "拍照结果"; ObjectID = "g5d-85-M9o"; */
+"g5d-85-M9o.text" = "拍照结果";
+
+/* Class = "UITextView"; text = "拍照说明： 1. 请按照拍照界面完成三张照片拍摄； 2. 所有信息确认没有错误后，请再提交"; ObjectID = "h8K-Dk-B8V"; */
+"h8K-Dk-B8V.text" = "拍照说明： 1. 请按照拍照界面完成三张照片拍摄； 2. 所有信息确认没有错误后，请再提交";
+
+/* Class = "UITextField"; placeholder = "姓名"; ObjectID = "iCm-mc-dDE"; */
+"iCm-mc-dDE.placeholder" = "姓名";
+
+/* Class = "UIBarButtonItem"; title = "新建"; ObjectID = "oDP-kp-fGP"; */
+"oDP-kp-fGP.title" = "新建";
+
+/* Class = "UITextField"; placeholder = "体重 KG"; ObjectID = "ppc-FO-dmg"; */
+"ppc-FO-dmg.placeholder" = "体重 KG";
+
+/* Class = "UITextField"; placeholder = "身高 CM"; ObjectID = "ykI-ig-umE"; */
+"ykI-ig-umE.placeholder" = "身高 CM";
